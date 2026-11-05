@@ -1,0 +1,8 @@
+-r requirements.txt
+torch==2.5.1
+torchvision==0.20.1
+segmentation-models-pytorch==0.3.4
+fundus-lesions-toolkit @ git+https://github.com/ClementPla/fundus-lesions-toolkit@c1cc42416285ee486ad04c298d6d418c57e7e147
+
+httpx[socks]>=0.27
+torchseg==0.0.1a1

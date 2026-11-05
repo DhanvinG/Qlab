@@ -1,0 +1,16 @@
+__pycache__/
+.pytest_cache/
+.venv/
+*.pyc
+.env
+.env.*
+data/
+outputs/
+evidence/
+*.pt
+*.pth
+*.safetensors
+*.xlsx
+*.jpg
+*.png
+*.npz
